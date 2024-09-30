@@ -8,4 +8,8 @@ Questions you want to answer (maybe divided by different topics). Each question 
 Describe the methodology you are using, explaining the steps upi took for data cleaning, analysis, etc.<br>
 Conclusions after your analysis.<br>
 Further questions.<br>
+
+OMDB API link- https://www.omdbapi.com/<br>
+Dataset link - https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data<br>
+Git Hub link- https://github.com/Marc-Bouche/Movie_Recommandation_System<br>
 Links to data sources and Trello.<br>
