@@ -11,6 +11,7 @@ H1:Genre Popularity:<br>
 
 H2:Audience Trends:<br>
 'There is a correlation between a movie's financial success and the popularity of its featured actors.<br>
+
 H3: Runtime Preference:<br>
 '‘Movies with a runtime between 120 and 150 minutes tend to perform better commercially.’<br>
 
